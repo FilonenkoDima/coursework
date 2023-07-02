@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UIL.Configurations.Config" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAIAAAAAAAAAAAAAAAAAAAAAABAI=</HashCode>
+      <FileName>Configurations\Config.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIL.Demo.FlightServiceDemo" Collapsed="true">
+    <Position X="10" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAIAACAAEAgAgAAAAAgAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Demo\FlightServiceDemo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIL.Demo.MainDemo" Collapsed="true">
+    <Position X="3" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Demo\MainDemo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIL.Demo.OtherServiceDemo" Collapsed="true">
+    <Position X="6.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAmCAAAAAAggEADAKAiAABAQAgAAEAgAAQASA=</HashCode>
+      <FileName>Demo\OtherServiceDemo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIL.Demo.TicketServiceDemo" Collapsed="true">
+    <Position X="6.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABEAACAAAUDAAAAABQAAAAAAEAAAAAIAAAAQgAA=</HashCode>
+      <FileName>Demo\TicketServiceDemo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIL.Menu.Menus" Collapsed="true">
+    <Position X="4.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAABAAAIAEA=</HashCode>
+      <FileName>Menu\Menus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIL.Models.AirCraftModel" Collapsed="true">
+    <Position X="3" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAHAAAAAAAAAAAEAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\AirCraftModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIL.Models.AirportModel" Collapsed="true">
+    <Position X="4.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAABAAAAAAAEAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\AirportModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIL.Models.ChildTicketModel" Collapsed="true">
+    <Position X="6.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAgAAAAAAAEAAAAAAAAAAEAAAAAAAAgAAAAACA=</HashCode>
+      <FileName>Models\ChildTicketModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIL.Models.CityModel" Collapsed="true">
+    <Position X="8.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAEAAAAAAQAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\CityModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIL.Models.ClassModel" Collapsed="true">
+    <Position X="10" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAEAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ClassModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIL.Models.CountryModel" Collapsed="true">
+    <Position X="4.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAEAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\CountryModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIL.Models.FlagCarryingAirlineModel" Collapsed="true">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAEAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\FlagCarryingAirlineModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIL.Models.FlightModel" Collapsed="true">
+    <Position X="8.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAACAAAAIAEAAAAAAABAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Models\FlightModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIL.Models.PassengerModel" Collapsed="true">
+    <Position X="8.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAQAAEAACAQAQABAAAAAAQAAAAAgCgAAA=</HashCode>
+      <FileName>Models\PassengerModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIL.Models.TicketModel" Collapsed="true">
+    <Position X="4.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAgAAAAAAAEAAAAAAAAAAFAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Models\TicketModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIL.Models.VisaModel" Collapsed="true">
+    <Position X="8.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAEAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\VisaModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIL.Services.Service" Collapsed="true">
+    <Position X="3" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Services\Service.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIL.Program" Collapsed="true">
+    <Position X="10" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

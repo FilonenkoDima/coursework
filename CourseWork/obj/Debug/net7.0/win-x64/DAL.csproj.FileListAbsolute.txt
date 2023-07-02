@@ -1,0 +1,5 @@
+C:\course\CourseWork\CourseWork\obj\Debug\net7.0\win-x64\DAL.csproj.AssemblyReference.cache
+C:\course\CourseWork\CourseWork\obj\Debug\net7.0\win-x64\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\course\CourseWork\CourseWork\obj\Debug\net7.0\win-x64\DAL.AssemblyInfoInputs.cache
+C:\course\CourseWork\CourseWork\obj\Debug\net7.0\win-x64\DAL.AssemblyInfo.cs
+C:\course\CourseWork\CourseWork\obj\Debug\net7.0\win-x64\DAL.csproj.CoreCompileInputs.cache

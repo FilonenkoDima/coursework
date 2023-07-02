@@ -1,0 +1,11 @@
+﻿1 /-/ Kyiv /-/ 1
+2 /-/ Lviv /-/ 1
+3 /-/ Odesa /-/ 1
+4 /-/ Krakow /-/ 2
+5 /-/ Warscaw /-/ 2
+6 /-/ New York /-/ 3
+7 /-/ Los Angeles /-/ 3
+8 /-/ Orlando /-/ 3
+9 /-/ Washington /-/ 3
+10 /-/ Berlin /-/ 4
+11 /-/ Paris /-/ 5

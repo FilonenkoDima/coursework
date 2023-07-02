@@ -1,0 +1,47 @@
+﻿1 /-/ Valeriyovich /-/ Dmytro /-/ Filonenko /-/ 1 /-/ Kyiv /-/ 27/04/2003 00:00:00 /-/ 380960535832 /-/ filonenkodmytrodm@gmail.com /-/ Ukrainian
+2 /-/ Mylokolayovich /-/ Ivan /-/ Krasny /-/ 1 /-/ Kyiv /-/ 09/06/2003 00:00:00 /-/ 380540382047 /-/ krasnyivan2342@gmail.com /-/ Ukrainian
+3 /-/ Sergiyovich /-/ Mark /-/ Titov /-/ 1 /-/ Kyiv /-/ 26/03/2002 00:00:00 /-/ 380549276449 /-/ mark_titov@gmail.com /-/ Ukrainian
+4 /-/ Oleksandrovich /-/ Bogdan /-/ Tsvilii /-/ 1 /-/ Kyiv /-/ 10/06/2003 00:00:00 /-/ 380159838592 /-/ tsviliibogdanus@gmail.com /-/ Ukrainian
+5 /-/ Oleksandrovich /-/ Maria /-/ Trofymenko /-/ 1 /-/ Berlin /-/ 09/10/2005 00:00:00 /-/ 380878892848 /-/ trofymenkomarrusiia@gmail.com /-/ Ukrainian
+6 /-/ Romanovich /-/ Ivan /-/ Kosovets /-/ 1 /-/ Kyiv /-/ 02/08/2003 00:00:00 /-/ 380349588903 /-/ ivanromanovich@gmail.com /-/ Ukrainian
+7 /-/ Petrovich /-/ Oleksii /-/ Galuga /-/ 1 /-/ Lviv /-/ 24/09/2003 00:00:00 /-/ 380652343659 /-/ petrovichgaluga@gmail.com /-/ Ukrainian
+8 /-/ Volodymyrivna /-/ Ludmila /-/ Lisnichuk /-/ 1 /-/ Malyn /-/ 10/05/1971 00:00:00 /-/ 38064986388 /-/ lisnichik1971luda@gmail.com /-/ Ukrainian
+9 /-/ Kowalska /-/ Wojciecha /-/ Kamińska /-/ 2 /-/ Montreal /-/ 15/04/1973 00:00:00 /-/ 514-906-9936 /-/ WojciechaKaminska@rhyta.com /-/ Serbian
+10 /-/ T. /-/ Carl /-/ Hattaway /-/ 4 /-/ Hellenurme /-/ 06/09/1954 00:00:00 /-/ 765 7760 /-/ CarlTHattaway@dayrep.com /-/ Egyptian
+11 /-/ Pagnotto /-/ Boris /-/ Fiorentino /-/ 8 /-/ Hespeler /-/ 06/03/1955 00:00:00 /-/ 519-244-3580 /-/ BorisFiorentino@jourrapide.com /-/ Thai
+12 /-/ - /-/ Leonid /-/ Tretyakov /-/ 10 /-/ BOULTENSTONE /-/ 26/07/1949 00:00:00 /-/ 078 4007 9825 /-/ LeonidTretyakov@jourrapide.com /-/ Norwegian
+13 /-/ - /-/ Milan /-/ Alexandrova /-/ 8 /-/ Tallinn /-/ 19/10/1942 00:00:00 /-/ 617 1403 /-/ MilanAlexandrova@rhyta.com /-/ Thai
+14 /-/ Pisano /-/ Wanda /-/ Romano /-/ 11 /-/ STIFTUNG /-/ 21/01/2000 00:00:00 /-/ 0660 705 94 69 /-/ WandaRomano@jourrapide.com /-/ Dane
+15 /-/ - /-/ Miroslav /-/ Maslova /-/ 3 /-/ RENNES /-/ 28/08/1947 00:00:00 /-/ 02.80.34.92.42 /-/ MiroslavMaslova@armyspy.com /-/ Greek
+16 /-/ H. /-/ Kenneth /-/ Campbell /-/ 9 /-/ Cabeza del Caballo /-/ 24/03/2001 00:00:00 /-/ 602 581 947 /-/ KennethHCampbell@dayrep.com /-/ Vietnamese
+17 /-/ Hellström /-/ Samantha /-/ Lundberg /-/ 4 /-/ Etxebarria /-/ 25/08/1941 00:00:00 /-/ 751 106 497 /-/ SamanthaLundberg@dayrep.com /-/ Chilean
+18 /-/ Durr /-/ Felix /-/ Probst /-/ 2 /-/ Muskiz /-/ 05/02/1992 00:00:00 /-/ 671 091 754 /-/ FelixProbst@teleworm.us /-/ Greek
+19 /-/ Humphreys /-/ Mohammad /-/ Shepherd /-/ 7 /-/ SETÚBAL /-/ 07/06/1984 00:00:00 /-/ 21 265 771 7549 /-/ MohammadShepherd@teleworm.us /-/ Englishman
+20 /-/ P. /-/ Willie /-/ Commons /-/ 1 /-/ Bovenden /-/ 29/10/1971 00:00:00 /-/ 0551 85 04 81 /-/ WilliePCommons@jourrapide.com /-/ Qatari
+21 /-/ - /-/ Lima /-/ Dolgorukova /-/ 11 /-/ PARIS /-/ 17/03/1947 00:00:00 /-/ 01.00.90.05.29 /-/ LimaDolgorukova@armyspy.com /-/ Frenchman
+22 /-/ Ferri /-/ Laura /-/ Toscano /-/ 10 /-/ Felenne /-/ 01/01/1971 00:00:00 /-/ 0496 22 80 26 /-/ LauraToscano@dayrep.com /-/ Algerian
+23 /-/ Bianchi /-/ Efisio /-/ Udinese /-/ 1 /-/ Gdynia /-/ 13/01/1992 00:00:00 /-/ 60 399 39 25 /-/ EfisioUdinese@armyspy.com /-/ Briton
+24 /-/ Paquette /-/ Falerina /-/ Sauvé /-/ 4 /-/ SMEETH /-/ 24/10/1968 00:00:00 /-/ 078 2952 6553 /-/ FalerinaSauve@jourrapide.com /-/ Mauritanian
+25 /-/ Robitaille /-/ Carolos /-/ Garceau /-/ 4 /-/ Koonga /-/ 06/01/1974 00:00:00 /-/ 442 7742 /-/ CarolosGarceau@jourrapide.com /-/ Rwandan
+26 /-/ Kos /-/ Magdalena /-/ Ćosić /-/ 8 /-/ PRIEBING /-/ 04/10/1993 00:00:00 /-/ 0650 371 02 52 /-/ MagdalenaCosic@armyspy.com /-/ Bangladeshi
+27 /-/ - /-/ Leon /-/ Zotov /-/ 8 /-/ Bujalance /-/ 07/03/1945 00:00:00 /-/ 633 609 871 /-/ LeonZotov@rhyta.com /-/ Yugoslav
+28 /-/ F. /-/ George /-/ Johnson /-/ 1 /-/ Blue Mound /-/ 29/03/1943 00:00:00 /-/ 817-495-6003 /-/ GeorgeFJohnson@dayrep.com /-/ Czech
+29 /-/ L. /-/ Jerome /-/ Layton /-/ 5 /-/ Bayfield /-/ 24/01/1995 00:00:00 /-/ 715-979-8402 /-/ JeromeLLayton@teleworm.us /-/ Bosnian
+30 /-/ Urbanová /-/ Dušan /-/ Čáp /-/ 1 /-/ KLEINHAUGSDORF /-/ 16/08/1965 00:00:00 /-/ 0681 292 40 91 /-/ DusanCap@teleworm.us /-/ Austrian
+31 /-/ Daly /-/ Louie /-/ Brady /-/ 1 /-/ Hawkesbury /-/ 30/06/1970 00:00:00 /-/ 613-307-9175 /-/ LouieBrady@rhyta.com /-/ Scot
+32 /-/ Maurer /-/ Uwe /-/ Kirsch /-/ 6 /-/ TRÜBENBACH /-/ 29/03/1974 00:00:00 /-/ 0676 356 66 38 /-/ UweKirsch@jourrapide.com /-/ Mauritian
+33 /-/ Bumgarner /-/ Thomas /-/ Wurfel /-/ 5 /-/ Bilstain /-/ 10/06/1941 00:00:00 /-/ 0479 93 06 37 /-/ ThomasWurfel@armyspy.com /-/ British
+34 /-/ Bartáková /-/ Kateřina /-/ Strnadová /-/ 5 /-/ AICH /-/ 01/09/1943 00:00:00 /-/ 0660 104 91 05 /-/ KaterinaStrnadova@jourrapide.com /-/ Luxembourger
+35 /-/ Nussbaum /-/ Stefan /-/ Schmitt /-/ 5 /-/ Lovenjoel /-/ 25/01/1988 00:00:00 /-/ 0476 43 49 01 /-/ StefanSchmitt@jourrapide.com /-/ Nicaraguan
+36 /-/ Dodd /-/ Madeleine /-/ Fox /-/ 10 /-/ Koszalin /-/ 18/02/1949 00:00:00 /-/ 88 282 62 09 /-/ MadeleineFox@teleworm.us /-/ Czech
+37 /-/ Szczepańska /-/ Dobrosław /-/ Kamiński /-/ 8 /-/ Minneapolis /-/ 24/03/1988 00:00:00 /-/ 612-708-0147 /-/ DobroslawKaminski@dayrep.com /-/ Welshman
+38 /-/ Ivanković /-/ Mojmir /-/ Marković /-/ 4 /-/ BRIDGE OF CALLY /-/ 31/01/1942 00:00:00 /-/ 079 6865 9375 /-/ MojmirMarkovic@jourrapide.com /-/ Hungarian
+39 /-/ Cunningham /-/ Rhys /-/ Francis /-/ 8 /-/ CASTELO /-/ 10/11/1962 00:00:00 /-/ 21 232 974 1006 /-/ RhysFrancis@rhyta.com /-/ Salvadorean
+40 /-/ Turková /-/ Antonín /-/ Hořínek /-/ 10 /-/ ABERGWYNANT /-/ 12/04/1991 00:00:00 /-/ 078 6469 4655 /-/ AntoninHorinek@jourrapide.com /-/ Laotian
+41 /-/ Abend /-/ Martin /-/ Reinhard /-/ 5 /-/ Gdynia /-/ 30/11/2017 00:00:00 /-/ 66 693 14 44 /-/ MartinReinhard@teleworm.us /-/ German
+42 /-/ Schäfer /-/ Thomas /-/ Sanger /-/ 3 /-/ Calgary /-/ 21/03/2022 00:00:00 /-/ 403-216-8099 /-/ ThomasSanger@rhyta.com /-/ Maltese
+43 /-/ Cooke /-/ Jade /-/ Hawkins /-/ 11 /-/ Vancouver /-/ 30/06/2013 00:00:00 /-/ 604-605-9432 /-/ JadeHawkins@armyspy.com /-/ Beninese
+44 /-/ Klobučar /-/ Elizabeta /-/ Klobučar /-/ 2 /-/ Osula /-/ 10/08/2009 00:00:00 /-/ 783 4267 /-/ ElizabetaKlobucar@rhyta.com /-/ Australian
+45 /-/ Barić /-/ Sven /-/ Jelić /-/ 9 /-/ Tongeren /-/ 23/11/2008 00:00:00 /-/ 0473 49 62 31 /-/ SvenJelic@rhyta.com /-/ Jordanian
+46 /-/ Martinović /-/ Matilda /-/ Ivanović /-/ 8 /-/ Longueuil /-/ 07/08/2008 00:00:00 /-/ 450-677-9988 /-/ MatildaIvanovic@rhyta.com /-/ Ecuadorean
+47 /-/ Langelier /-/ Thomas /-/ Larocque /-/ 1 /-/ Bydgoszcz /-/ 27/10/2004 00:00:00 /-/ 72 238 51 73 /-/ ThomasLarocque@rhyta.com /-/ Zambian

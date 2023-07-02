@@ -1,0 +1,17 @@
+C:\course\CourseWork\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\course\CourseWork\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\course\CourseWork\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\course\CourseWork\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\course\CourseWork\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\course\CourseWork\BLL\bin\Debug\net7.0\BLL.deps.json
+C:\course\CourseWork\BLL\bin\Debug\net7.0\BLL.runtimeconfig.json
+C:\course\CourseWork\BLL\bin\Debug\net7.0\BLL.dll
+C:\course\CourseWork\BLL\bin\Debug\net7.0\BLL.pdb
+C:\course\CourseWork\BLL\bin\Debug\net7.0\DAL.dll
+C:\course\CourseWork\BLL\bin\Debug\net7.0\DAL.pdb
+C:\course\CourseWork\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\course\CourseWork\BLL\obj\Debug\net7.0\BLL.dll
+C:\course\CourseWork\BLL\obj\Debug\net7.0\refint\BLL.dll
+C:\course\CourseWork\BLL\obj\Debug\net7.0\BLL.pdb
+C:\course\CourseWork\BLL\obj\Debug\net7.0\BLL.genruntimeconfig.cache
+C:\course\CourseWork\BLL\obj\Debug\net7.0\ref\BLL.dll

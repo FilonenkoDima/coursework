@@ -1,0 +1,4 @@
+﻿1 /-/ Work visa
+2 /-/ Tourist visa
+3 /-/ Immigration visa
+4 /-/ Student visa

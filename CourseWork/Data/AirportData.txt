@@ -1,0 +1,14 @@
+﻿1 /-/ Boryspil International Airport /-/ 1
+2 /-/ Kyiv International Airport (Zhuliany) /-/ 1
+3 /-/ Lviv Danylo Halytskyi International Airport /-/ 2
+4 /-/ Odesa International Airport /-/ 3
+5 /-/ Kraków John Paul II International Airport /-/ 4
+6 /-/ Warsaw Chopin Airport /-/ 5
+7 /-/ John F. Kennedy International Airport /-/ 6
+8 /-/ LaGuardia Airport /-/ 6
+9 /-/ Newark International Airport /-/ 6
+10 /-/ Los Angeles International Airport /-/ 7
+11 /-/ Orlando International Airport /-/ 8
+12 /-/ Dulles International Airport /-/ 9
+13 /-/ Berlin Brandenburg Airport /-/ 10
+14 /-/ Charles de Gaulle Airport /-/ 11
